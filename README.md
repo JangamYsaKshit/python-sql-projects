@@ -1,4 +1,4 @@
-# Python + SQL  Projects
+# Python + SQL  Project
 
 A collection of hands-on projects created to strengthen my programming, database, problem-solving, and software development skills.
 
