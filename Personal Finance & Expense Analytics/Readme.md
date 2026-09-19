@@ -1,4 +1,4 @@
-# 💰 Personal Finance & Expense Analytic
+# 💰 Personal Finance & Expense Analytic.
 
 A Python and MySQL-based personal finance management system for recording, managing, and analyzing income and expense transactions.
 
