@@ -5,7 +5,7 @@
 
 
 # Library
-import sql.connector
+import mysql.connector
 
 
 # Connect To MSQL 
