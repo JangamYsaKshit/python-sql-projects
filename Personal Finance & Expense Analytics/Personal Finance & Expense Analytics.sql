@@ -1,7 +1,7 @@
 --- Personal Finance & Expense Analytics ---
 
 --- DATABASE --
-CREATE DATABASE finance_db
+CREATE DATABASE finance_db;
 
 --- TABLES ---
 USE finance_db;
